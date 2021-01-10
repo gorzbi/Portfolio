@@ -48,5 +48,5 @@
 
 * [HRSYS](https://www.hrsys.pl/)
 
-# Tet case exapmle:
-* [example - Knowledge test status "Passed" for the 80% threshold](https://docs.google.com/spreadsheets/d/1A8omGCu4uLj7LQ95Vhs0PTnw-DCxNSdnZRoELpMiTtM/edit?usp=sharing)
+# Tet case example:
+* [Knowledge test status "Passed" for the 80% threshold](https://docs.google.com/spreadsheets/d/1A8omGCu4uLj7LQ95Vhs0PTnw-DCxNSdnZRoELpMiTtM/edit?usp=sharing)
