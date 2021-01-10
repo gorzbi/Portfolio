@@ -14,7 +14,7 @@
 * Link Redirect Trace
 * Wizdler
 
-# Tech skills
+# Tech skills:
 
 * SQL
 * DevTools
@@ -23,11 +23,14 @@
 * Reporting bugs
 * Creating diagrams and decision tables
 
-# Courses
+# Courses:
 
 * [Udemy - Kurs Testera Manualnego](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697504#overview)
 * [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/learn/lecture/21761286#overview)
 
+# Projects:
+
+* [HRSYS](https://www.hrsys.pl/)
 
 # Facebook groups and sites:
 
