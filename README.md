@@ -26,7 +26,7 @@
 # Courses:
 
 * [Udemy - Kurs Testera Manualnego](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697504#overview)
-* [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/learn/lecture/21761286#overview)
+* [Udemy - Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/learn/lecture/21761286#overview)
 
 # Facebook groups and sites:
 
