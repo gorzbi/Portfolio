@@ -28,10 +28,6 @@
 * [Udemy - Kurs Testera Manualnego](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697504#overview)
 * [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/learn/lecture/21761286#overview)
 
-# Projects:
-
-* [HRSYS](https://www.hrsys.pl/)
-
 # Facebook groups and sites:
 
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
@@ -47,3 +43,7 @@
 * [testuj.pl](https://testerzy.pl/) 
 * [guru99](https://www.guru99.com/software-testing.html) 
 * [Automation step by step](https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg) 
+
+# Projects:
+
+* [HRSYS](https://www.hrsys.pl/)
