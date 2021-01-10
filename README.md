@@ -29,9 +29,16 @@
 * [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/learn/lecture/21761286#overview)
 
 
-# Groups on Facebook
+# Facebook groups and sites:
 
-# Blogs / Website / YT
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/?multi_permalinks=3678504718838746)
+* [Junior IT, dobry start, początkujący programista, tester i nie tylko](https://www.facebook.com/groups/junioritdobrystart/?multi_permalinks=3736985749655329)
+* [Kurs Tester Manualny](https://www.facebook.com/groups/246926649684135/)
+* [ISTQB - egzaminy, pytania, teksty](https://www.facebook.com/groups/194288250951242/)
+
+# Blogs / Website / YT:
+
 * [Jak Testować](https://jaktestowac.pl/)
 * [testerzy.pl](https://testerzy.pl/) 
 * [testuj.pl](https://testerzy.pl/) 
