@@ -17,6 +17,7 @@
 # Tech skills:
 
 * SQL
+* HTML
 * DevTools
 * Software testing
 * Creating test cases
