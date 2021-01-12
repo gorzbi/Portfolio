@@ -51,3 +51,6 @@
 
 # Tet case example:
 * [Knowledge test status "Passed" for the 80% threshold](https://docs.google.com/spreadsheets/d/1A8omGCu4uLj7LQ95Vhs0PTnw-DCxNSdnZRoELpMiTtM/edit?usp=sharing)
+
+# Bug report example:
+* [Wrong link on a page](https://docs.google.com/spreadsheets/d/1tFZoxJ5fh7RzNP60SPV9pwnqLsm2d973QY0RmE8UeCM/edit?usp=sharing)
