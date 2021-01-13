@@ -54,3 +54,4 @@
 
 # Bug report example:
 * [Wrong link on a page](https://docs.google.com/spreadsheets/d/1tFZoxJ5fh7RzNP60SPV9pwnqLsm2d973QY0RmE8UeCM/edit?usp=sharing)
+* [Menu anchor not responding](https://docs.google.com/spreadsheets/d/1k8APMRYj1TmWEjyiLzIJ_EkPFOJ4U7iI39GAY6kRu9Y/edit?usp=sharing)
