@@ -39,6 +39,7 @@
 
 # Blogs / Website / YT:
 
+* [Dla Testerów](https://www.dlatesterow.pl/)
 * [Jak Testować](https://jaktestowac.pl/)
 * [testerzy.pl](https://testerzy.pl/) 
 * [testuj.pl](https://testerzy.pl/) 
