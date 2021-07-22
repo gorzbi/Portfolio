@@ -1,18 +1,19 @@
 # Portfolio
 
-# Tools used in testing:
+# Tools used by me in testing:
 
 * Chrome Dev Tools
-* Postman
-* SOAP UI
-* Trello
-* JMeter
-* Microsoft SQL Server Management Studio 18
-* [JSONPathFinder](https://jsonpathfinder.com/)  
-* [JSONOnlineEditor](https://jsoneditoronline.org) 
-* Edit This Cookie
+* Clear Browsing Data
 * Link Redirect Trace
-* Wizdler
+* Font Finder
+* Postman
+* Notepad ++
+* Selenium IDE
+* [DBeaver](https://dbeaver.io/) 
+* [JSONOnlineEditor](https://jsoneditoronline.org) 
+* [Screenpresso](https://www.screenpresso.com/)
+* Excel
+* Jira / XRay
 
 # Tech skills:
 
@@ -28,6 +29,10 @@
 
 * [Udemy - Kurs Testera Manualnego](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697504#overview)
 * [Udemy - Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/learn/lecture/21761286#overview)
+
+# Certificates:
+
+* ISTQB FL
 
 # Facebook groups and sites:
 
@@ -49,6 +54,7 @@
 # Projects:
 
 * [HRSYS](https://www.hrsys.pl/)
+* [EWP](https://eploz.ezdrowie.gov.pl/)
 
 # Tet case example:
 * [Knowledge test status "Passed" for the 80% threshold](https://docs.google.com/spreadsheets/d/1A8omGCu4uLj7LQ95Vhs0PTnw-DCxNSdnZRoELpMiTtM/edit?usp=sharing)
