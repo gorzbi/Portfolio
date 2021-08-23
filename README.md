@@ -6,9 +6,11 @@
 * Clear Browsing Data
 * Link Redirect Trace
 * Font Finder
+* xPath Finder
 * Postman
 * Notepad ++
 * Selenium IDE
+* Selenium Webdriver
 * [DBeaver](https://dbeaver.io/) 
 * [JSONOnlineEditor](https://jsoneditoronline.org) 
 * [Screenpresso](https://www.screenpresso.com/)
@@ -19,7 +21,7 @@
 
 * SQL
 * HTML
-* DevTools
+* Java
 * Software testing
 * Creating test cases
 * Reporting bugs
