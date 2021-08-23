@@ -11,6 +11,7 @@
 * Notepad ++
 * Selenium IDE
 * Selenium Webdriver
+* [Intellij Idea](https://www.jetbrains.com/idea/)
 * [DBeaver](https://dbeaver.io/) 
 * [JSONOnlineEditor](https://jsoneditoronline.org) 
 * [Screenpresso](https://www.screenpresso.com/)
