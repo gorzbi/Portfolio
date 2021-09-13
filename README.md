@@ -34,7 +34,7 @@
 
 * [Udemy - Kurs Testera Manualnego](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697504#overview)
 * [Udemy - Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/learn/lecture/21761286#overview)
-* [Udemy - JAVA/GIT/GITHUB](https://www.udemy.com/course/kurs-selenium-java/)
+* [Udemy - Kurs Selenium Java od podstaw](https://www.udemy.com/course/kurs-selenium-java/)
 
 # Certificates:
 
