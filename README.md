@@ -1,22 +1,24 @@
 # Portfolio
 
 # Tools used by me in testing:
-
-* Chrome Dev Tools
-* Clear Browsing Data
-* Link Redirect Trace
-* Font Finder
-* xPath Finder
-* Postman
+* [Postman](https://www.postman.com/)
 * Notepad ++
 * Selenium IDE
 * Selenium Webdriver
 * [Intellij Idea](https://www.jetbrains.com/idea/)
+* [GIT](https://git-scm.com/)
+* [GITHUB](https://github.com/)
+* [TortoiseGIT](https://tortoisegit.org/)
 * [DBeaver](https://dbeaver.io/) 
+* Chrome Dev Tools
 * [JSONOnlineEditor](https://jsoneditoronline.org) 
 * [Screenpresso](https://www.screenpresso.com/)
 * Excel
 * Jira / XRay
+* [Clear Browsing Data](https://chrome.google.com/webstore/detail/clear-browsing-data/bjilljlpencdcpihofiobpnfgcakfdbe)
+* [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en)
+* [Font Finder](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha?hl=en)
+* [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph?hl=en)
 
 # Tech skills:
 
