@@ -13,6 +13,7 @@
 * Chrome Dev Tools
 * [JSONOnlineEditor](https://jsoneditoronline.org) 
 * [Screenpresso](https://www.screenpresso.com/)
+* [Swagger Editor](https://editor.swagger.io/)
 * Excel
 * Jira / XRay
 * [Clear Browsing Data](https://chrome.google.com/webstore/detail/clear-browsing-data/bjilljlpencdcpihofiobpnfgcakfdbe)
