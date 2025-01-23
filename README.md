@@ -54,14 +54,14 @@
 * [Dla Testerów](https://www.dlatesterow.pl/)
 * [Jak Testować](https://jaktestowac.pl/)
 * [testerzy.pl](https://testerzy.pl/) 
-* [testuj.pl](https://testerzy.pl/) 
+* [testuj.pl](https://testuj.pl/) 
 * [guru99](https://www.guru99.com/software-testing.html) 
-* [Automation step by step](https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg) 
+* [Automation step by step](https://automationstepbystep.com/) 
 
 # Projects:
 
 * [HRSYS](https://www.hrsys.pl/)
-* [EWP](https://eploz.ezdrowie.gov.pl/)
+* [EWP / E-KREW / EPLOZ+UEOZ](https://eploz.ezdrowie.gov.pl)
 
 # Tet case example:
 * [Knowledge test status "Passed" for the 80% threshold](https://docs.google.com/spreadsheets/d/1A8omGCu4uLj7LQ95Vhs0PTnw-DCxNSdnZRoELpMiTtM/edit?usp=sharing)
