@@ -5,11 +5,13 @@
 * Notepad ++
 * Selenium IDE
 * Selenium Webdriver
+* Rest Assured
 * [Intellij Idea](https://www.jetbrains.com/idea/)
 * [GIT](https://git-scm.com/)
 * [GITHUB](https://github.com/)
 * [TortoiseGIT](https://tortoisegit.org/)
-* [DBeaver](https://dbeaver.io/) 
+* [DBeaver](https://dbeaver.io/)
+* Jenkins
 * Chrome Dev Tools
 * [JSONOnlineEditor](https://jsoneditoronline.org) 
 * [Screenpresso](https://www.screenpresso.com/)
