@@ -33,11 +33,12 @@
 
 # Courses:
 
-* [Udemy - Kurs Testera Manualnego](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697504#overview)
-* [Udemy - Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/learn/lecture/21761286#overview)
+* [Udemy - Kurs Testera Manualnego](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
+* [Udemy - Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/)
 * [Udemy - Kurs Selenium Java od podstaw](https://www.udemy.com/course/kurs-selenium-java/)
 * [Udemy - Kurs Cucumber BDD dla testerów automatyzujących](https://www.udemy.com/course/kurs-cucumber-bdd)
-
+* [Udemy - Kurs Testowanie REST API za pomocą Postmana oraz biblioteki Rest Assured z wykorzystaniem języka programowania Java](https://www.udemy.com/course/rest-assured-java/)
+* [Udemy - Kurs Jenkins dla testerów automatycznych](https://www.udemy.com/course/kurs-jenkins-dla-testerow-automatyzujacych/)
 # Certificates:
 
 * ISTQB FL
